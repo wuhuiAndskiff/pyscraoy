@@ -1,0 +1,5 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+localhost.local	FALSE	/alipayDemoJava/	FALSE		JSESSIONID	A7900851BA00B8BE56F8B8C32AA5DF25
